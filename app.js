@@ -12,7 +12,6 @@ app.use(express.json());
 
 // 注册路由模块
 app.use(rankingsRoutes);
-app.use(proxyRoutes);
 
 
 // 启动服务，监听3456端口
