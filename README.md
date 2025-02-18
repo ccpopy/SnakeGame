@@ -7,5 +7,5 @@
 2. 需要有mysql数据库
 #### 下载
 ```powershell
-git clone -b express
+git clone -b express https://github.com/ccpopy/SnakeGame.git
 ```
