@@ -4,5 +4,5 @@
 ## 后端
 ### Express
 代码在分支[express](https://github.com/ccpopy/SnakeGame/tree/express)上，需要node环境
-### WASM文件
+### 生成对应的WASM文件和js文件
 代码在分支[c](https://github.com/ccpopy/SnakeGame/tree/c)上
